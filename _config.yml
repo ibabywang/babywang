@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Onecho.cn
+email:webmaster@onecho.cn
+description: This blog on Github.powered by jekyll.
 url: # the base hostname & protocol for your site
 
 
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
+  name: Onecho
+  avatar: avatar.png
   job: "Onecho.cn"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  bio: "This blog on Github."
   email:
   disqus-shortname:
   twitter: ibabywang
