@@ -2,8 +2,9 @@
 layout: post
 title:  "Welcome to my Blog"
 date:   2017-09-20 19:07:19
-categories: [weibo]
+categories: [Blog]
 comments: true
+---
 ## 十分欢迎你的到来
 
 这是搭建在GitHub的博客，可能在某段时间内它会经常处于变化当中，甚至出现不可预知的错误，那都是正常的，因为博主正在测试中.
