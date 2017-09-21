@@ -1,9 +1,4 @@
 ---
-layout: post
-title: "Welcome to my Blog"
-date:   2017-09-20 19:07:19
-categories:[hello world]
-comments: true
 
 ## 十分欢迎你的到来
 
