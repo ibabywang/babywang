@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to my Blog
+title: "Welcome to my Blog"
 excerpt: "这是搭建在GitHub的博客，可能在某段时间内它会经常处于变化当中，甚至出现不可预知的错误，那都是正常的，因为博主正在测试中."
 categories: [hello world]
 comments: true
@@ -13,5 +13,5 @@ comments: true
 
 ## PS.
 
-**Watch out!** 如果有天被墙，我希望你能翻的出来:)
+ 如果有天被墙，我希望你能翻的出来:)
 {: .notice}
