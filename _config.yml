@@ -33,11 +33,11 @@ kramdown:
 ####################################
 #
 owner:
-  name: Onecho
+  name: Onecho Blog
   avatar: avatar.png
   job: "Onecho.cn"
   bio: "This blog on Github."
-  email:
+  email: webmaster@onecho.cn
   disqus-shortname:
   twitter: ibabywang
   facebook: #username
